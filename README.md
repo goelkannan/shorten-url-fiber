@@ -18,17 +18,8 @@ A high-performance, Dockerized URL shortener built with Go (Fiber), Redis, and H
 
 ## 📂 Project Structure
 
-shorten-url-fiber/
-├── api/
-│ ├── database/ # Redis client init
-│ ├── helpers/ # Random string, URL validation, etc.
-│ ├── routes/ # shorten and redirect route handlers
-│ ├── .env # Env config (PORT, Redis)
-│ ├── Dockerfile # API container
-│ ├── go.mod / go.sum # Go dependencies
-│ └── main.go # App entry point
-├── db/ # Optional Redis config/data
-└── docker-compose.yml # Docker Compose for Redis + API
+<img width="421" height="202" alt="{AE30F530-F5F6-4D7A-940A-69C54A436E63}" src="https://github.com/user-attachments/assets/1f3e255c-f05e-4245-b1b3-82095f858e2f" />
+
 ---
 
 ## 🛠️ Tech Stack
